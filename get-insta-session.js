@@ -1,4 +1,4 @@
-let { igApi, getSessionId } = require('insta-fetcher');
+let { igApi, getCookie } = require("insta-fetcher");
 let username='Your user name here';
 let pass='your password here';
 (async () => {
